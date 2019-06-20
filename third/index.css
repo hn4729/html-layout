@@ -1,0 +1,51 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 971px;;
+}
+
+.row-1 {
+    height: 10%;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.square {
+    background-color: #4A90E2;
+    height: 95px;
+    width: 95px;
+}
+
+.row-2 {
+    height: 18.7%;
+    padding: 50px 40px;
+    background-color: white;
+}
+
+.content {
+    font-family: sans-serif;
+    text-align: justify;
+    margin: auto;
+}
+
+.row-3 {
+    height: 15%;
+    background-color: #4A90E2;
+}
+
+.row-4 {
+    background-color: #50E3C2;
+    height: 15%;
+}
+
+.row-5 {
+    background-color: #B8E986;
+    height: 15%;
+}
+
+.row-6 {
+    background-color: #F8E71C;
+    height: 15%;
+}
