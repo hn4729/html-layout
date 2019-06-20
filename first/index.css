@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 80vh;
+}
+
+header {
+    background-color: darkgray;
+    height: 15vh;
+}
+
+.left-col {
+    background-color: gray;
+    margin: 0 auto;
+    height: 100vh;
+    width: 10vw;
+    float: left;
+}
+
+.right-col {
+    background-color: gray;
+    margin: 0 auto;
+    height: 100vh;
+    width: 10vw;
+    float: right;
+}
+
+footer {
+    background-color: black;
+    height: 15vh;
+    margin-top: 85vh;
+    bottom: 0;
+}
